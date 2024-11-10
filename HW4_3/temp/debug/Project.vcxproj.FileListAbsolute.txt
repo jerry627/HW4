@@ -1,0 +1,7 @@
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch2\HW2_code\HW2_3.17\temp\debug\Project.exe
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch3-1\HW3_P12\temp\debug\Project.exe
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch3-2\HW3_5_28\temp\debug\Project.exe
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch3-2\HW3_2_code\HW3_5_28\temp\debug\Project.exe
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch4\HW4_code\HW3_5_28\temp\debug\Project.exe
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch4\HW4_code\HW4_2\temp\debug\Project.exe
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch4\HW4_code\HW4_3\temp\debug\Project.exe

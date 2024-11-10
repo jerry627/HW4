@@ -1,0 +1,6 @@
+﻿E:\Microsoft Visual Studio\2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+E:\Microsoft Visual Studio\2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch4\HW4_code\HW4_7_race\Project\Project\Main.c(85,12): warning C4101: 'j': 未參考的區域變數
+C:\Users\PC_01\Desktop\高階程式語言\Homework\ch4\HW4_code\HW4_7_race\Project\Project\Main.c(95,12): warning C4101: 'j': 未參考的區域變數
+  Project.vcxproj -> C:\Users\PC_01\Desktop\高階程式語言\Homework\ch4\HW4_code\HW4_7_race\temp\debug\Project.exe
